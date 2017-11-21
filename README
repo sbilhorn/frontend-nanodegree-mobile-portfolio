@@ -1,0 +1,9 @@
+https://sbilhorn.github.io/frontend-nanodegree-mobile-portfolio/
+Optimizations:
+Inlined style.css
+Added async to analytics.js
+Moved js to end of body
+Altered image files to 75 Px height
+compressed Pizzeria jpg by 75%
+Removed Google web fonts
+Added media="print" to print.css link
